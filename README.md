@@ -1,6 +1,6 @@
 # fragment
 
-Quick test of [clojure2d](https://github.com/Clojure2D/clojure2d), I'm a fan of [quil] for in-browser work but would rather not be stuck on Java 8.
+Quick test of [clojure2d](https://github.com/Clojure2D/clojure2d), I'm a fan of [quil](http://quil.info/) for in-browser work but would rather not be stuck on Java 8.
 
 ## Usage
 
